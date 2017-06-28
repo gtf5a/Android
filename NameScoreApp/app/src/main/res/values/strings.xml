@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">姓名診断</string>
+    <string name="title_activity_score_result">診断結果</string>
+
+    <string name="hint">Type Your Name Here!</string>
+    <string name="button_label">Submit</string>
+</resources>

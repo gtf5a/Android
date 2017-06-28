@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OmikujiApp</string>
+
+    <string name="omikuji_label">あなたの運勢は…</string>
+    <string name="omikuji_result">---</string>
+    <string name="omikuji_button">おみくじを引く</string>
+
+</resources>
