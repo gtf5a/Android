@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyBrowserApp</string>
+
+    <string name="buttonBrowse">Browse</string>
+
+    <string name="action_reload">Reload</string>
+    <string name="action_forward">Forward</string>
+    <string name="action_back">Back</string>
+</resources>
